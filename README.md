@@ -1,24 +1,27 @@
 # Machine-Learning-Projects---Spaceship-Titanic
-## Our group members and README of each:
+## Our group members and contributions:
 ## 1. Zhang Junhong: Baseline Model (Logistic Regression)
 
-
-## 2. Zhao Yang: XGBoost Model ()
-
+## 2. Zhao Yang: XGBoost Model
 
 ## 3. Gao Jie: LightGBM Model
-## Spaceship Titanic - LightGBM Solution
+
+## 4. Guo Sibo: Ensemble Model (XGBoost + LightGBM + CatBoost)
+
+## 5. Gao Yuan: ANN (Neural Network)
+
+## Spaceship Titanic - How to follow our projects
 
 This repository contains a complete machine learning pipeline for the [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) Kaggle competition.  
-The solution implements **super feature engineering**, **hyperparameter optimisation** (stochastic search), **threshold tuning**, **outlier engineering** and a final **LightGBM** model.
-
 ---
 
 ## 📁 Project Structure
 ├── train.csv # Training data (required)\
 ├── test.csv # Test data (required)\
-├── space3.ipynb # Main notebook with all code\
-├── submission_lightgbm_v2.csv # Output submission file\
+├── Gao Jie - LightGBM Model.ipynb # LightGBM Model\
+├── submission_lightgbm_v2.csv # Output of LightGBM Model\
+├── Guo Sibo - Ensemble Model.py # Output of Ensemble Model\
+├── submission_pure_weighted_thr46.csv # Output of Ensemble Model\
 ├── requirements.txt # Environment & Dependencies\
 └── README.md # This file
 
