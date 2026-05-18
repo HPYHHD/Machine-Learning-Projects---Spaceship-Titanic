@@ -19,6 +19,7 @@ The solution implements **super feature engineering**, **hyperparameter optimisa
 ├── test.csv # Test data (required)\
 ├── space3.ipynb # Main notebook with all code\
 ├── submission_lightgbm_v2.csv # Output submission file\
+├── requirements.txt # Environment & Dependencies\
 └── README.md # This file
 
 ---
