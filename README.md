@@ -35,10 +35,19 @@ All required packages are listed in `requirements.txt` below.
 ```bash
 pip install -r requirements.txt
 
+```
+
 ---
 
 ## 🚀 How to Run
 1. Prepare data
 Place train.csv and test.csv in the same directory as the notebook, or update the file paths in the notebook:
+
+```bash
+train_df = pd.read_csv(r'C:\Users\gj153\Desktop\train.csv')   # change this
+test_df  = pd.read_csv(r'C:\Users\gj153\Desktop\test.csv')    # change this
+```
+2. 
+
 
 
