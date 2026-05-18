@@ -15,7 +15,6 @@ The solution implements **super feature engineering**, **hyperparameter optimisa
 ---
 
 ## 📁 Project Structure
-.
 ├── train.csv # Training data (required)\
 ├── test.csv # Test data (required)\
 ├── space3.ipynb # Main notebook with all code\
