@@ -20,3 +20,16 @@ The solution implements **super feature engineering**, **hyperparameter optimisa
 ├── space3.ipynb # Main notebook with all code\
 ├── submission_lightgbm_v2.csv # Output submission file\
 └── README.md # This file
+
+---
+
+## 🐍 Environment & Dependencies
+
+### Recommended setup
+Create a fresh Python environment (Python 3.8+).  
+All required packages are listed in `requirements.txt` below.
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
