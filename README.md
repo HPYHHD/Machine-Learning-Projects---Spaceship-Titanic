@@ -51,9 +51,9 @@ test_df  = pd.read_csv(r'C:\Users\gj153\Desktop\test.csv')    # change this
 Open space3.ipynb with Jupyter Notebook / JupyterLab / VS Code and execute all cells in order.
 
 3. Output
+
 Submission file: submission_lightgbm_v2.csv
 Columns: PassengerId , Transported (True/False)
-
 Feature importance plot: feature_importance_v2.png
 
 
