@@ -47,7 +47,14 @@ Place train.csv and test.csv in the same directory as the notebook, or update th
 train_df = pd.read_csv(r'C:\Users\gj153\Desktop\train.csv')   # change this
 test_df  = pd.read_csv(r'C:\Users\gj153\Desktop\test.csv')    # change this
 ```
-2. 
+2. Run the notebook
+Open space3.ipynb with Jupyter Notebook / JupyterLab / VS Code and execute all cells in order.
+
+3. Output
+Submission file: submission_lightgbm_v2.csv
+Columns: PassengerId , Transported (True/False)
+
+Feature importance plot: feature_importance_v2.png
 
 
 
