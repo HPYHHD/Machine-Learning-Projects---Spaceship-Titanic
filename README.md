@@ -53,7 +53,9 @@ Open space3.ipynb with Jupyter Notebook / JupyterLab / VS Code and execute all c
 3. Output
 
 Submission file: submission_lightgbm_v2.csv
+
 Columns: PassengerId , Transported (True/False)
+
 Feature importance plot: feature_importance_v2.png
 
 
