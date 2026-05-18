@@ -20,8 +20,12 @@ This repository contains a complete machine learning pipeline for the [Spaceship
 ├── test.csv # Test data (required)\
 ├── Gao Jie - LightGBM Model.ipynb # LightGBM Model\
 ├── submission_lightgbm_v2.csv # Output of LightGBM Model\
-├── Guo Sibo - Ensemble Model.py # Output of Ensemble Model\
+├── Guo Sibo - Ensemble Model.py #Ensemble Model\
 ├── submission_pure_weighted_thr46.csv # Output of Ensemble Model\
+├── Gao Yuan - ANN.py # Output of ANN Model\
+├── submission.csv # Output of Ensemble Model\
+├── Zhao Yang - XGBoost Model.py # XGBoost Model\
+├── Zhang Junhong - Logistic Regression.py #Logistic Regression\
 ├── requirements.txt # Environment & Dependencies\
 └── README.md # This file
 
