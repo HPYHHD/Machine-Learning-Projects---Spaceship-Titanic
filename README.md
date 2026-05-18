@@ -34,3 +34,11 @@ All required packages are listed in `requirements.txt` below.
 
 ```bash
 pip install -r requirements.txt
+
+---
+
+## 🚀 How to Run
+1. Prepare data
+Place train.csv and test.csv in the same directory as the notebook, or update the file paths in the notebook:
+
+
