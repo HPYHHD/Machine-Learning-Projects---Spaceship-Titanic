@@ -53,7 +53,12 @@ Place train.csv and test.csv in the same directory as the notebook, or update th
 2. Run the notebook
 Open the python file with Jupyter Notebook / JupyterLab / VS Code and execute all cells in order.
 
-3. Output
+```bash
+python fileyouwanttorun.py
+
+```
+
+4. Output
 
 Submission file: the csv submission file
 
